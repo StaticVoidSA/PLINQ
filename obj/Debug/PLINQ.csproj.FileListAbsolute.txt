@@ -1,0 +1,6 @@
+C:\Users\StaticVoidSA\source\repos\PLINQ\bin\Debug\PLINQ.exe.config
+C:\Users\StaticVoidSA\source\repos\PLINQ\bin\Debug\PLINQ.exe
+C:\Users\StaticVoidSA\source\repos\PLINQ\bin\Debug\PLINQ.pdb
+C:\Users\StaticVoidSA\source\repos\PLINQ\obj\Debug\PLINQ.csprojAssemblyReference.cache
+C:\Users\StaticVoidSA\source\repos\PLINQ\obj\Debug\PLINQ.exe
+C:\Users\StaticVoidSA\source\repos\PLINQ\obj\Debug\PLINQ.pdb
